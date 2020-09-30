@@ -1,0 +1,3 @@
+# Medium-predict
+
+These notebooks will walk you through the data cleaning, mungling, and doing basic visualizations of Data. More analysis coming soon...
